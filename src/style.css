@@ -1,0 +1,68 @@
+body {
+  background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
+  padding: 80px 0;
+}
+
+h4 {
+  color: gray;
+}
+
+li {
+  list-style-type: none;
+}
+
+.currentIcon {
+  font-size: 100px;
+  position: relative;
+  padding: 0 40px 20px 0;
+  margin: 10px 40px 20px 0;
+}
+
+.locIcon {
+  font-size: 25px;
+  display: block;
+  left: 500px;
+  top: 140px;
+  position: fixed;
+}
+
+.recentIcon {
+  position: relative;
+  font-size: 30px;
+  top: 0;
+  left: 80px;
+  margin: 0 auto;
+  padding: 0;
+}
+.recentContainer {
+  padding: 20px;
+  margin: 0;
+}
+
+.weekTemp {
+  line-height: 30px;
+  padding: 0 0 10px 0;
+}
+
+.bottomIcons {
+  font-size: 35px;
+}
+.sunnyIcon {
+  color: #ffe05d;
+}
+
+.rainyIcon {
+  color: #84a9ac;
+}
+
+.cloudyIcon {
+  color: #ff9642;
+}
+
+.cloudestIcon {
+  color: #cdc9c3;
+}
+
+.heavyRainIcon {
+  color: #0f3057;
+}
